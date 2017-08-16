@@ -1,15 +1,9 @@
-# Bosch Production Line Performance Kaggle challenge with SparkML
-
-https://www.kaggle.com/c/bosch-production-line-performance
-
+# IEEE PHM 2012 Data challenge with Scala, Python & R
+www.femto-st.fr/f/d/IEEEPHM2012-Challenge-Details.pdf
 
 Tasks:
 
-* Extend the existing Notebook to download data directly from the web
-HINT: Have a look at NASA project how this can be done
-* Create a dataframe from the data and store data back as parquet in ObjectStore
-* Replicate the notebook and check out what?s going on
-* Improve classification performance by
-  * using additional features
-  * engineering additional features
-  * using time information
+* Import the notebooks to Data Science Experience (datasciene.ibm.com)
+* Re-run them and make sure you understand what?s going on
+* Create a binary classifier and report your classification performance
+HINT: You might want to use the features created by the wavelet transformation
