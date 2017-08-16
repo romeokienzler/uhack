@@ -1,6 +1,8 @@
 # Movement pattern analysis using accelerometer sensor data
 This challenge is based on the dataset which can be found here https://github.com/wchill/HMP_Dataset
 
+https://www.youtube.com/watch?v=jGm3vvnUwYA
+
 Tasks:
 
 * Create a R-Notebook on datascience.ibm.com
