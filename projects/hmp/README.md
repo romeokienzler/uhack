@@ -1,6 +1,8 @@
 # Movement pattern analysis using accelerometer sensor data
 This challenge is based on the dataset which can be found here https://github.com/wchill/HMP_Dataset
 
+https://www.youtube.com/watch?v=jGm3vvnUwYA
+
 Tasks:
 
 * Create a R-Notebook on datascience.ibm.com
@@ -10,5 +12,5 @@ Tasks:
 * Improve Clustering and/or Classification performance by engineering additional features like
   * DFT/FFT (Fourier Transformation)
   * Wavelets
-  * your call…
+  * your call
 

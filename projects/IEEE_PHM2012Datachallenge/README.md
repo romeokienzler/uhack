@@ -1,6 +1,8 @@
 # IEEE PHM 2012 Data challenge with Scala, Python & R
 www.femto-st.fr/f/d/IEEEPHM2012-Challenge-Details.pdf
 
+https://www.youtube.com/watch?v=MrUq2GOQnbc
+
 Tasks:
 
 * Import the notebooks to Data Science Experience (datasciene.ibm.com)
