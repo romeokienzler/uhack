@@ -8,7 +8,7 @@ Tasks:
 * Use the two provided R-Scripts and incorporate them into the notebook
 * Review/Modify/Rerun them and make sure you understand how creation of additional features (mean, standard deviation) improves clustering performance
 * Improve Clustering and/or Classification performance by engineering additional features like
-..* DFT/FFT (Fourier Transformation)
-..* Wavelets
-..* your call…
+  * DFT/FFT (Fourier Transformation)
+  * Wavelets
+  * your call…
 
