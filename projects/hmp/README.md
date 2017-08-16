@@ -10,5 +10,5 @@ Tasks:
 * Improve Clustering and/or Classification performance by engineering additional features like
   * DFT/FFT (Fourier Transformation)
   * Wavelets
-  * your call…
+  * your call
 
